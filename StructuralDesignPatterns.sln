@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralDesignPatterns", "StructuralDesignPatterns\StructuralDesignPatterns.csproj", "{45ED1DCC-B2D7-4A94-814D-592C4C549E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterSDP", "AdapterSDP\AdapterSDP.csproj", "{8026EF3C-7E07-4C4A-8362-0A3D7E177067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeSDP", "BridgeSDP\BridgeSDP.csproj", "{78499C14-FFDF-4DCA-BE6A-B6C9AE734229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeSDP", "CompositeSDP\CompositeSDP.csproj", "{5B8B2A73-2AAB-42F0-BF6D-5D901E9F0744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorSDP", "DecoratorSDP\DecoratorSDP.csproj", "{B213322F-F1D9-45FC-8086-A37560823AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeSDP", "FacadeSDP\FacadeSDP.csproj", "{F564ABD0-0ECC-4B69-9BC3-66C0883D4DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45ED1DCC-B2D7-4A94-814D-592C4C549E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45ED1DCC-B2D7-4A94-814D-592C4C549E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45ED1DCC-B2D7-4A94-814D-592C4C549E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45ED1DCC-B2D7-4A94-814D-592C4C549E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8026EF3C-7E07-4C4A-8362-0A3D7E177067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8026EF3C-7E07-4C4A-8362-0A3D7E177067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8026EF3C-7E07-4C4A-8362-0A3D7E177067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8026EF3C-7E07-4C4A-8362-0A3D7E177067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78499C14-FFDF-4DCA-BE6A-B6C9AE734229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78499C14-FFDF-4DCA-BE6A-B6C9AE734229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78499C14-FFDF-4DCA-BE6A-B6C9AE734229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78499C14-FFDF-4DCA-BE6A-B6C9AE734229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8B2A73-2AAB-42F0-BF6D-5D901E9F0744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8B2A73-2AAB-42F0-BF6D-5D901E9F0744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8B2A73-2AAB-42F0-BF6D-5D901E9F0744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8B2A73-2AAB-42F0-BF6D-5D901E9F0744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B213322F-F1D9-45FC-8086-A37560823AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B213322F-F1D9-45FC-8086-A37560823AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B213322F-F1D9-45FC-8086-A37560823AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B213322F-F1D9-45FC-8086-A37560823AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F564ABD0-0ECC-4B69-9BC3-66C0883D4DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F564ABD0-0ECC-4B69-9BC3-66C0883D4DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F564ABD0-0ECC-4B69-9BC3-66C0883D4DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F564ABD0-0ECC-4B69-9BC3-66C0883D4DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C6C3992-34CE-44EE-BCE2-B8035D996A60}
+	EndGlobalSection
+EndGlobal
