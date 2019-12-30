@@ -86,7 +86,7 @@ namespace StructuralDesignPatterns.Controllers
         }
 
 
-
+        //fgfdg
         // GET: StructuralDesignPatterns
         public ActionResult Index()
         {
